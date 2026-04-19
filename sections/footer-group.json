@@ -1,0 +1,161 @@
+{
+  "type": "footer",
+  "name": "Footer group",
+  "sections": {
+    "newsletter-footer": {
+      "type": "newsletter-footer",
+      "settings": {
+        "enable_newletter_footer": false,
+        "animation": "",
+        "setwidth": "container",
+        "bgsection": "#000000",
+        "newletter_color": "#ff6f2e",
+        "colorborder": "#e9e9e9",
+        "e_size": "cover",
+        "e_repeat": "no-repeat",
+        "title_top": "",
+        "title": "Subscrible & Get <span class=\"text-theme\">10% <\/span> Discount",
+        "des": "",
+        "html_left": false,
+        "html_left_block": "",
+        "paddingsection": "60px 0px 0px 0px",
+        "paddingmobile": "30px 0px 30px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "marginmobile": "0px 0px 0px 0px"
+      }
+    },
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "ec49d85b-17bb-4b65-a49f-3086aa5430cd": {
+          "type": "newsletter",
+          "settings": {
+            "bg_new": "rgba(0,0,0,0)",
+            "border_new": "#d9d7dd",
+            "btn_bg_new": "#e0dbd2",
+            "btn_cl_new": "#1c1c1c",
+            "btn_cl_new_hover": "#ffffff",
+            "title": "",
+            "subheading": "<h4>INBOX TO JEWELLERY<\/h4><p>Sign up for private sales, new launches, style tips and more.<\/p>",
+            "enablesocial": true,
+            "width": "25%"
+          }
+        },
+        "text_PXgRTm": {
+          "type": "text",
+          "settings": {
+            "widthlogofooter": 130,
+            "title": "",
+            "text": "",
+            "width": "auto"
+          }
+        },
+        "1562342622030": {
+          "type": "menu",
+          "settings": {
+            "link_list": "information",
+            "width": "auto"
+          }
+        },
+        "1567410176792": {
+          "type": "menu",
+          "settings": {
+            "link_list": "footer",
+            "width": "auto"
+          }
+        },
+        "text_HRnQdp": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "widthlogofooter": 130,
+            "title": "",
+            "text": "",
+            "width": "auto"
+          }
+        },
+        "e9eb7f2c-c446-4ab6-9c0c-636e713bb621": {
+          "type": "menu",
+          "settings": {
+            "link_list": "shop",
+            "width": "auto"
+          }
+        },
+        "1595696762386": {
+          "type": "text",
+          "settings": {
+            "widthlogofooter": 150,
+            "title": "Contact Us",
+            "text": "<div class=\" rte\">\n<p class=\"mt-3\">Email: clientcare@cadiant.com<br>\nPhone: 1.888.838.3022<br>\nHours: Monday – Thursday: 9AM – 7PM ET, Friday: 9AM – 2PM ET<\/p>\n<\/div>",
+            "width": "auto"
+          }
+        }
+      },
+      "block_order": [
+        "ec49d85b-17bb-4b65-a49f-3086aa5430cd",
+        "text_PXgRTm",
+        "1562342622030",
+        "1567410176792",
+        "text_HRnQdp",
+        "e9eb7f2c-c446-4ab6-9c0c-636e713bb621",
+        "1595696762386"
+      ],
+      "custom_css": [
+        ".footer-email {margin-top: -0.1rem;}"
+      ],
+      "settings": {
+        "setwidth": "container-fluid",
+        "background": "#f6f4f3",
+        "border_headfooter": "rgba(0,0,0,0)",
+        "border-copryright": "#d9d9d9",
+        "text": "#000000",
+        "text_hover": "#000000",
+        "title": "#000000",
+        "footer_align_title": "left",
+        "enable_border": false,
+        "footer_font_family": "--g-font-2",
+        "footer_font_size_title": 16,
+        "footer_font_weight": "600",
+        "footer_spacing": 0,
+        "footer_typetext": "capitalize",
+        "acc_mobile": true,
+        "e_ft_currency": true,
+        "enable_image": true,
+        "enable_name": true,
+        "enable_language_selector": true,
+        "payment_info": "svg",
+        "link_list_bottom": "",
+        "customcopyright": "All rights reserved.",
+        "padding_top": 64,
+        "padding_bottom": 32,
+        "m_padding_top": 32,
+        "m_padding_bottom": 0
+      }
+    },
+    "062de4af-6112-4c1c-afd5-d843383892f3": {
+      "type": "rich-text",
+      "disabled": true,
+      "settings": {
+        "animation": "",
+        "setwidth": "container",
+        "bgsection": "#404040",
+        "gradient_bg": "",
+        "title_color": "#ffffff",
+        "title_top": "",
+        "title": "",
+        "text": "<p>© 2024 - Cadiant. Powered by Shopify<\/p>",
+        "align-heading": "center",
+        "align-content": "center",
+        "paddingsection": "10px 0px 0px 0px",
+        "paddingmobile": "10px 0px 0px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "marginmobile": "0px 0px 0px 0px"
+      }
+    }
+  },
+  "order": [
+    "newsletter-footer",
+    "footer",
+    "062de4af-6112-4c1c-afd5-d843383892f3"
+  ]
+}
