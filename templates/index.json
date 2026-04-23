@@ -142,6 +142,7 @@
     },
     "product_list_swiper_qKmRAw": {
       "type": "product-list-swiper",
+      "disabled": true,
       "settings": {
         "animation": "fade-up",
         "setwidth": "container",
@@ -268,7 +269,7 @@
           "type": "collection",
           "settings": {
             "title": "Best Seller",
-            "collection": "best-seller",
+            "collection": "trending-cute-lamps-🔥",
             "button": "discover now",
             "link": "shopify://collections/best-seller",
             "style_btn": "btn-outline",
@@ -282,7 +283,7 @@
           "type": "collection",
           "settings": {
             "title": "New Arrivals",
-            "collection": "new-arrival",
+            "collection": "smart-kitchen-finds-🏠",
             "button": "shop all",
             "link": "shopify://collections/new-arrival",
             "style_btn": "btn-outline",
@@ -318,7 +319,7 @@
         "bgsection": "#ffffff",
         "title": "New Design",
         "limit": 4,
-        "enable_reverse": false,
+        "enable_reverse": true,
         "paddingsection": "80px 0px 80px 0px",
         "paddingmobile": "40px 0px 40px 0px",
         "marginsection": "0px 0px 0px 0px",
