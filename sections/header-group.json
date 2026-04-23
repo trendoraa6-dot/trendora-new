@@ -35,7 +35,6 @@
         "a00daf6f-fb1c-4351-80dc-24e405bf630e",
         "afb084a9-2a31-4207-9d23-694c0f6b1281"
       ],
-      "disabled": true,
       "custom_css": [
         ".announcement-item__in {text-transform: uppercase;}"
       ],
