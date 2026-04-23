@@ -285,7 +285,7 @@
         "hover_transparent": false,
         "enable_white": false,
         "setwidth": "container-fluid",
-        "layout_header": "logo-left-navigation-center",
+        "layout_header": "logo-center-navigation-left",
         "type_sticky": "sticky",
         "height_header": "normal",
         "background": "#ffffff",
