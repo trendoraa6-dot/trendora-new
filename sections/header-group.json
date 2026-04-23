@@ -46,7 +46,7 @@
         "scroll_dot": "dot",
         "size_icon": 24,
         "speed": 20,
-        "scroll_type": "from-right",
+        "scroll_type": "from-left",
         "background": "#f4d574",
         "gradient_bg": "",
         "text": "#252525"
