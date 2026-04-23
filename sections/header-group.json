@@ -14,26 +14,26 @@
     "announcement-bar-slide": {
       "type": "announcement-bar-slide",
       "blocks": {
-        "a00daf6f-fb1c-4351-80dc-24e405bf630e": {
+        "item_NNLtD6": {
           "type": "Item",
           "settings": {
-            "code": "1 Ct. tw.  diamond studs starting at $490",
-            "button_text": "Shop now",
-            "button_link": "shopify://collections"
+            "code": "“⏳ Hurry! Trending Accessories Selling Out Fast!”",
+            "button_text": "Shop Now",
+            "button_link": ""
           }
         },
-        "afb084a9-2a31-4207-9d23-694c0f6b1281": {
+        "item_TFdFb9": {
           "type": "Item",
           "settings": {
-            "code": "Our new summer-inspired",
+            "code": "“🌟 Handpicked Accessories Just for You”",
             "button_text": "Shop Now",
-            "button_link": "shopify://collections/best-seller"
+            "button_link": ""
           }
         }
       },
       "block_order": [
-        "a00daf6f-fb1c-4351-80dc-24e405bf630e",
-        "afb084a9-2a31-4207-9d23-694c0f6b1281"
+        "item_NNLtD6",
+        "item_TFdFb9"
       ],
       "custom_css": [
         ".announcement-item__in {text-transform: uppercase;}"
