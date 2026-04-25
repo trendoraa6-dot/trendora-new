@@ -69,7 +69,7 @@
             "collection_paragraph": "<p>from Rs. 39</p>",
             "collection_btn": "explore",
             "collection_link": "shopify://collections/necklaces",
-            "style_btn": "btn-outline",
+            "style_btn": "btn-outline btn-outline-white",
             "enable_gradient": false,
             "bg_overlay": "#222222",
             "opacity_overlay": 0
