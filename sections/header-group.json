@@ -68,7 +68,7 @@
         "enable_language_topbar": true,
         "enable_social_topbar": true,
         "enable_login_topbar": false,
-        "text_topbar": "Get up to 15% off + Free shipping",
+        "text_topbar": "Get up to 10% off + Free shipping",
         "buttonall_topbar": "Shop now",
         "buttonall_link_topbar": "shopify://collections/all",
         "enable_block_link": false,
