@@ -337,9 +337,8 @@
       "blocks": {
         "sub_title_XyAGEr": {
           "type": "sub_title",
-          "disabled": true,
           "settings": {
-            "subtitle": "Lightweight"
+            "subtitle": "Luxury Accessories for Every Moment"
           }
         },
         "image_eN66gE": {
@@ -352,7 +351,7 @@
         "heading_rXnkBA": {
           "type": "heading",
           "settings": {
-            "title": "Statement Jewelry to Elevate",
+            "title": "Elevate Your Everyday Style",
             "size_text": "h2"
           }
         },
@@ -376,7 +375,7 @@
         "setwidth": "container-fluid",
         "bgsection": "#ffffff",
         "parrallax_enable": true,
-        "image": "shopify://shop_images/remove-nocture-luxe-and-add-trendora.png",
+        "image": "shopify://shop_images/give-me-parallax-banner-for-my-shop-where-i-sell-each-product-which-is-necessary-for-daily-use-and-even-luxury-manner.png",
         "height_section": "550",
         "height_section_mobile": "450",
         "align": "center",
