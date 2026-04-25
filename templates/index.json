@@ -15,7 +15,7 @@
         "collection_b4V7Vm": {
           "type": "collection",
           "settings": {
-            "collection": "emerald",
+            "collection": "mens-luxury",
             "image": "shopify://shop_images/i-need-a-very-classy-image-in-which-all-mens-luxury-items-are-there-and-make-it-liik-little-premium.png",
             "size_title": "h4",
             "color": "#ffffff",
@@ -36,7 +36,7 @@
         "collection_Vz6WyD": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "gym",
             "image": "shopify://shop_images/exercise-free-weights.jpg",
             "size_title": "h5",
             "color": "#000f2e",
@@ -78,7 +78,7 @@
         "collection_xFVJCh": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "kids",
             "image": "shopify://shop_images/montessori-waldorf-toys-and-toddlers.jpg",
             "size_title": "h5",
             "color": "#000000",
