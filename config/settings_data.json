@@ -394,12 +394,28 @@
       "product-suggest": {
         "type": "product-suggest",
         "blocks": {
-          "product_jHJYeC": {
+          "product_ezPRQf": {
             "type": "product",
             "settings": {
               "product": "",
               "local": "in Blackburn, UK",
               "time": "about 21 minutes ago"
+            }
+          },
+          "product_tjwcg8": {
+            "type": "product",
+            "settings": {
+              "product": "",
+              "local": "in Blackburn, UK",
+              "time": "about 21 minutes ago"
+            }
+          },
+          "product_jHJYeC": {
+            "type": "product",
+            "settings": {
+              "product": "4-tube-yoga-pedal-pull-reducer-resistance-band-crossfit-exercise-fitness-tummy-body-building-equipment-for-abdomen-waist-arm-leg-stretching-d1tkrfu65riqr79f6vbg",
+              "local": "",
+              "time": ""
             }
           },
           "product_WWpwzf": {
@@ -412,6 +428,8 @@
           }
         },
         "block_order": [
+          "product_ezPRQf",
+          "product_tjwcg8",
           "product_jHJYeC",
           "product_WWpwzf"
         ],
