@@ -278,6 +278,7 @@
             "button": "discover now",
             "link": "shopify://collections/best-seller",
             "style_btn": "btn-outline",
+            "image": "shopify://shop_images/cmimgopt-8f631375-35a6-4a5e-a78d-3cb0528642ff.webp",
             "colortabimage": "#202025",
             "bg_overlay": "#000000",
             "opacity_bgbox": 0,
@@ -322,7 +323,7 @@
         "animation": "fade-up",
         "setwidth": "container",
         "bgsection": "#ffffff",
-        "title": "New Design",
+        "title": "",
         "limit": 4,
         "enable_reverse": true,
         "paddingsection": "80px 0px 80px 0px",
@@ -461,6 +462,7 @@
     },
     "featured_articles_J97gGN": {
       "type": "featured-articles",
+      "disabled": true,
       "settings": {
         "animation": "fade-up",
         "setwidth": "container",
@@ -468,9 +470,9 @@
         "title_color": "rgba(0,0,0,0)",
         "title_top": "",
         "title": "On the Blog",
-        "des": "Check Out Our Blog - The Chain",
+        "des": "Check Out Our Blog",
         "align-heading": "center",
-        "blog": "news",
+        "blog": "trend-talks",
         "item_style": "blog-1",
         "enable_btn_blog": true,
         "style_btn": "btn-underline",
@@ -508,6 +510,7 @@
       "block_order": [
         "button_mxAtjR"
       ],
+      "disabled": true,
       "settings": {
         "animation": "fade-up",
         "setwidth": "container",

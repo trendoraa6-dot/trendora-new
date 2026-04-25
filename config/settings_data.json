@@ -394,53 +394,26 @@
       "product-suggest": {
         "type": "product-suggest",
         "blocks": {
-          "1560580908623": {
+          "product_jHJYeC": {
             "type": "product",
             "settings": {
-              "product": "earrings-1carat-outlet-bezel-solitaire-studs-white",
-              "local": "in Blumenau, Brazil",
-              "time": "About 50 minutes ago"
-            }
-          },
-          "1560581969631": {
-            "type": "product",
-            "settings": {
-              "product": "necklaces-0-5carat-outlet-bezel-solitaire-pendant-white",
-              "local": "in Bauru, Brazil",
-              "time": "about 35 minutes ago"
-            }
-          },
-          "1560582020821": {
-            "type": "product",
-            "settings": {
-              "product": "facet-1ct-pear-necklace",
+              "product": "",
               "local": "in Blackburn, UK",
               "time": "about 21 minutes ago"
             }
           },
-          "1590318690573": {
+          "product_WWpwzf": {
             "type": "product",
             "settings": {
-              "product": "earrings-2-carat-finest-solitaire-studs-blue",
-              "local": "in Blackburn, UK",
-              "time": "about 21 minutes ago"
-            }
-          },
-          "1597367617767": {
-            "type": "product",
-            "settings": {
-              "product": "loose-stone-finest-round-brilliant-1-75-carat-white",
-              "local": "in Blackburn, UK",
-              "time": "about 21 minutes ago"
+              "product": "duck-night-light-d70eqpu3iibs73dpda10",
+              "local": "",
+              "time": ""
             }
           }
         },
         "block_order": [
-          "1560580908623",
-          "1560581969631",
-          "1560582020821",
-          "1590318690573",
-          "1597367617767"
+          "product_jHJYeC",
+          "product_WWpwzf"
         ],
         "settings": {
           "enable": true,
