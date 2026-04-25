@@ -358,9 +358,9 @@
         "button_rUfktM": {
           "type": "button",
           "settings": {
-            "button": "SHOP ESSENTIALS",
+            "button": "Shop Now",
             "link": "shopify://collections",
-            "style_btn": "btn-theme btn-white"
+            "style_btn": "btn-outline btn-outline-white"
           }
         }
       },
