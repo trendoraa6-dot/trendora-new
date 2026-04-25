@@ -71,7 +71,7 @@
         "text_topbar": "Get up to 10% off + Free shipping",
         "buttonall_topbar": "Shop now",
         "buttonall_link_topbar": "shopify://collections/all",
-        "enable_block_link": false,
+        "enable_block_link": true,
         "topbar_phone": "+91",
         "topbar_email": "",
         "topbar_store": "Store",
@@ -79,8 +79,8 @@
         "topbar_appointment": "Virtual Appointment",
         "topbar_page_appointment": "",
         "enable_countdown": false,
-        "text_countdown": "Ends in",
-        "data_countdown": "2025-05-11T00:00:00"
+        "text_countdown": "",
+        "data_countdown": "2025-05-11 T 00:00:00"
       }
     },
     "header": {
