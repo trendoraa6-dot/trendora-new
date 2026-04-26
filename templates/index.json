@@ -147,7 +147,6 @@
     },
     "product_list_swiper_qKmRAw": {
       "type": "product-list-swiper",
-      "disabled": true,
       "settings": {
         "animation": "fade-up",
         "setwidth": "container",
@@ -197,8 +196,9 @@
           "settings": {
             "width": "6",
             "enable_height_banner": true,
-            "promo_banner_height": 360,
+            "promo_banner_height": 610,
             "promo_banner_height_mobile": 320,
+            "image": "shopify://shop_images/Gemini_Generated_Image_a54dl8a54dl8a54d.png",
             "enable_video": false,
             "video_hosted": "",
             "subtitle": "",
@@ -392,7 +392,6 @@
     },
     "backgroundvideo_CPddgd": {
       "type": "backgroundvideo",
-      "disabled": true,
       "settings": {
         "animation": "fade-up",
         "setwidth": "full",
@@ -443,7 +442,6 @@
         "text_block_idmzjA",
         "image_block_Gk4ibM"
       ],
-      "disabled": true,
       "settings": {
         "animation": "fade-up",
         "setwidth": "container",
@@ -461,7 +459,6 @@
     },
     "featured_articles_J97gGN": {
       "type": "featured-articles",
-      "disabled": true,
       "settings": {
         "animation": "fade-up",
         "setwidth": "container",
@@ -509,7 +506,6 @@
       "block_order": [
         "button_mxAtjR"
       ],
-      "disabled": true,
       "settings": {
         "animation": "fade-up",
         "setwidth": "container",
