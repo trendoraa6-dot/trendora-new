@@ -71,7 +71,7 @@
         "text_topbar": "Get up to 10% off + Free shipping",
         "buttonall_topbar": "Shop now",
         "buttonall_link_topbar": "shopify://collections/all",
-        "enable_block_link": true,
+        "enable_block_link": false,
         "topbar_phone": "+91",
         "topbar_email": "",
         "topbar_store": "Store",
