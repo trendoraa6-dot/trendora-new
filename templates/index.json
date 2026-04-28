@@ -283,7 +283,7 @@
             "image": "shopify://shop_images/cmimgopt-187d2adb-5384-4c5b-b82a-1af2ad32aec7.webp",
             "colortabimage": "#ffffff",
             "bg_overlay": "#000000",
-            "opacity_bgbox": 58,
+            "opacity_bgbox": 50,
             "position_text": "bot-center"
           }
         },
@@ -291,10 +291,11 @@
           "type": "collection",
           "settings": {
             "title": "New Arrivals",
-            "collection": "smart-kitchen-finds-🏠",
-            "button": "shop all",
+            "collection": "kids",
+            "button": "shop now",
             "link": "shopify://collections/new-arrival",
             "style_btn": "btn-outline",
+            "image": "shopify://shop_images/1749121152043-18.jpg",
             "colortabimage": "#202025",
             "bg_overlay": "#000000",
             "opacity_bgbox": 0,
