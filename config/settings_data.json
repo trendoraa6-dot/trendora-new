@@ -1504,12 +1504,12 @@
       "password-header": {
         "type": "password-header",
         "settings": {
-          "image_password": "shopify://shop_images/desktop_hero_wedding.webp",
+          "image_password": "shopify://shop_images/red-and-blue-shoreline-iphone-screen.jpg",
           "blur_password": 4,
           "bg_password": "#282828",
           "color_pass": "#ffffff",
           "opacity_password": 0.4,
-          "logo": "shopify://shop_images/logow.svg",
+          "logo": "shopify://shop_images/Elegant_Trendora_shopping_bag_logo-removebg-preview.png",
           "logo_max_width": "180",
           "header": "Launching Soon!"
         }
@@ -1526,7 +1526,7 @@
       "password-footer": {
         "type": "password-footer",
         "settings": {
-          "show_share_buttons": true,
+          "show_share_buttons": false,
           "social_message": "Spread the word"
         }
       },
