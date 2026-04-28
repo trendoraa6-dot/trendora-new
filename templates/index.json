@@ -147,6 +147,7 @@
     },
     "product_list_swiper_qKmRAw": {
       "type": "product-list-swiper",
+      "disabled": true,
       "settings": {
         "animation": "fade-up",
         "setwidth": "container",
@@ -169,7 +170,7 @@
         "buttonall": "SHOP NOW",
         "buttonall_link": "",
         "style_btn": "btn-theme",
-        "enable_first_banner": true,
+        "enable_first_banner": false,
         "image_banner": "shopify://shop_images/1739356268214-95.jpg",
         "width_banner": 30,
         "subtitle_banner": "Sub Title",
@@ -184,6 +185,62 @@
         "overlay_banner": "#000000",
         "opacity_banner": 0.2,
         "paddingsection": "60px 0px 60px 0px",
+        "paddingmobile": "40px 0px 40px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "marginmobile": "0px 0px 0px 0px"
+      }
+    },
+    "product_with_image_keEDUx": {
+      "type": "product-with-image",
+      "blocks": {
+        "banner_tKnJBy": {
+          "type": "banner",
+          "settings": {
+            "subtitle": "Sub Title",
+            "title": "Title Banner",
+            "size_text": "h2",
+            "subtext": "Protection from the",
+            "pos_banner": "mid-center",
+            "button": "discover now",
+            "link": "",
+            "style_btn": "btn-underline btn-underline-white",
+            "video": "",
+            "colortabimage": "#ffffff",
+            "bg-overlay": "#000000",
+            "bg-opacity": 0.2
+          }
+        },
+        "product_KVihNf": {
+          "type": "product",
+          "settings": {
+            "product_list": [
+              "4-tube-yoga-pedal-pull-reducer-resistance-band-crossfit-exercise-fitness-tummy-body-building-equipment-for-abdomen-waist-arm-leg-stretching-d1tkrfu65riqr79f6vbg",
+              "crawling-crab-baby-musical-kids-toy-with-led-lights-and-rechargeable-battery-d10nm8nmcs7664t7vm80",
+              "duck-night-light-d70eqpu3iibs73dpda10",
+              "exercise-bands-resistance-bands-set-workingout-door-fitness-gym-resistance-bands-kit-for-men-women-d4bhnonl9odtq4216pb0"
+            ],
+            "column": "4",
+            "limit": 4
+          }
+        }
+      },
+      "block_order": [
+        "banner_tKnJBy",
+        "product_KVihNf"
+      ],
+      "disabled": true,
+      "name": "Product grid Image",
+      "settings": {
+        "animation": "fade",
+        "setwidth": "container-fluid",
+        "bgsection": "#ffffff",
+        "title_top": "Sub Title Top",
+        "title": "Product list",
+        "des": "",
+        "align-heading": "left",
+        "enable_reverse": true,
+        "width_banner": 27,
+        "paddingsection": "0px 0px 0px 0px",
         "paddingmobile": "40px 0px 40px 0px",
         "marginsection": "0px 0px 0px 0px",
         "marginmobile": "0px 0px 0px 0px"
@@ -313,7 +370,7 @@
             "image": "shopify://shop_images/1739193263923-3.jpg",
             "colortabimage": "#202025",
             "bg_overlay": "#000000",
-            "opacity_bgbox": 0,
+            "opacity_bgbox": 50,
             "position_text": "bot-center"
           }
         }
@@ -599,14 +656,15 @@
           "type": "service",
           "settings": {
             "bgblock": "rgba(0,0,0,0)",
-            "title": "100% Lab grown",
-            "description": "We are proud to offer only lab grown diamonds",
+            "title": "Contact us",
+            "description": "trendoraa6@gmail.com",
             "type_icon": "svg",
             "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewbox=\"0 0 24 24\" fill=\"none\" stroke=\"#FFA500\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\">\n  <path d=\"M22 16.92v3a2 2 0 0 1-2.18 2 \n           19.79 19.79 0 0 1-8.63-3.07 \n           19.5 19.5 0 0 1-6-6 \n           19.79 19.79 0 0 1-3.07-8.67 \n           A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 \n           12.84 12.84 0 0 0 .7 2.81 \n           2 2 0 0 1-.45 2.11L8.09 9.91 \n           a16 16 0 0 0 6 6l1.27-1.27 \n           a2 2 0 0 1 2.11-.45 \n           12.84 12.84 0 0 0 2.81.7 \n           A2 2 0 0 1 22 16.92z\"></path>\n</svg>"
           }
         },
         "4273663e-a3ea-49a8-a7c1-c872309fc99c": {
           "type": "service",
+          "disabled": true,
           "settings": {
             "bgblock": "rgba(0,0,0,0)",
             "title": "Free resizing",
@@ -653,6 +711,7 @@
   "order": [
     "featured_collections_5_WmqNJr",
     "product_list_swiper_qKmRAw",
+    "product_with_image_keEDUx",
     "grid_banner_FR7HUK",
     "product_tab_2_KRfhd4",
     "parallax_banner_9bm7AE",
