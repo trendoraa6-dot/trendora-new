@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "featured-blog": {
@@ -6,21 +15,22 @@
         "d5010d0b-0b25-4222-b337-1cc65375f775": {
           "type": "post",
           "settings": {
-            "article": "news\/orange-is-the-new-black-add-a-little-zest-to-your-jewellery",
-            "subheading": "Featured post"
+            "article": "news/trendora",
+            "subheading": "Featured post",
+            "image": "shopify://shop_images/Elegant_Trendora_shopping_bag_logo-removebg-preview.png"
           }
         },
         "f88c8cbd-2f60-4198-8d5e-5c8d6d96e013": {
           "type": "post",
           "settings": {
-            "article": "news\/the-making-of-our-wavy-ridge-collection",
+            "article": "news/the-making-of-our-wavy-ridge-collection",
             "subheading": "Featured post"
           }
         },
         "9a00793d-a77c-4b88-8c07-4739f4123d74": {
           "type": "post",
           "settings": {
-            "article": "news\/treat-your-bridesmaids-a-wedding-jewellery-guide",
+            "article": "news/treat-your-bridesmaids-a-wedding-jewellery-guide",
             "subheading": "Featured post"
           }
         }
