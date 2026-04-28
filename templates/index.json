@@ -298,7 +298,7 @@
             "image": "shopify://shop_images/1749121152043-18.jpg",
             "colortabimage": "#202025",
             "bg_overlay": "#000000",
-            "opacity_bgbox": 0,
+            "opacity_bgbox": 50,
             "position_text": "bot-center"
           }
         },
@@ -306,10 +306,11 @@
           "type": "collection",
           "settings": {
             "title": "Feauture",
-            "collection": "frontpage",
-            "button": "discover now",
+            "collection": "mens-luxury",
+            "button": "shop",
             "link": "shopify://collections/frontpage",
             "style_btn": "btn-outline",
+            "image": "shopify://shop_images/1739193263923-3.jpg",
             "colortabimage": "#202025",
             "bg_overlay": "#000000",
             "opacity_bgbox": 0,
