@@ -464,7 +464,7 @@
           "type": "faq",
           "settings": {
             "faq_title": "Can I change or return my item?",
-            "faq_des": "<p>If you want to change a product into another model, strap color etc., please contact us so we are able to reserve the new item in our stock immediately. You are always entitled to an exchange or refund within 30 days after you have received your package, as long as the item has not been used.</p>"
+            "faq_des": "<p>If you want to change a product into another model, strap color etc., please contact us so we are able to reserve the new item in our stock immediately. You are always entitled to an exchange or refund within 7 days after you have received your package, as long as the item has not been used.</p>"
           }
         }
       },
