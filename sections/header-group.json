@@ -318,7 +318,7 @@
         "menudroptext": "#6c747b",
         "menudropbg": "#ffffff",
         "menudropborder": "#f1f1f1",
-        "main_linklist": "",
+        "main_linklist": "main-menu-copy",
         "font_family_menu": "--g-font-2",
         "font_sizemenu": "14px",
         "font_weight": "600",
@@ -331,14 +331,14 @@
         "menu_label_hot": "#d24418",
         "menu_label_sale": "#ffa800",
         "menu_label_other": "#848484",
-        "enable_menu_vertical": false,
+        "enable_menu_vertical": true,
         "sl_menu_vertical": "click-menu",
-        "main_linklist_vertical": "",
-        "link_list_search": "",
+        "main_linklist_vertical": "main-menu-copy",
+        "link_list_search": "customer-account-main-menu",
         "sidebar_search": true,
         "e_hd_currency": true,
         "enable_image": true,
-        "enable_name": false,
+        "enable_name": true,
         "enable_language_selector": false,
         "icon_cart": "icon",
         "svg_cart": "cart-3",
@@ -346,14 +346,26 @@
         "icon_login": "icon",
         "e_link_login": "link",
         "icon_search": "icon",
-        "enable_sidebar_option": true
+        "enable_sidebar_option": false
       }
     },
     "store-messages": {
       "type": "store-messages",
+      "blocks": {
+        "item_jqWKhc": {
+          "type": "Item",
+          "settings": {
+            "code": "Add important information here",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_jqWKhc"
+      ],
       "settings": {
-        "enable": false,
-        "enable_homepage": false,
+        "enable": true,
+        "enable_homepage": true,
         "background": "#000000",
         "gradient_bg": "",
         "text": "#ffffff",
