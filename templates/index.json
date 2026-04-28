@@ -151,7 +151,7 @@
         "animation": "fade-up",
         "setwidth": "container",
         "e_size": "auto",
-        "e_repeat": "no-repeat",
+        "e_repeat": "repeat",
         "e_position": "center center",
         "bgsection": "#ffffff",
         "title_color": "rgba(0,0,0,0)",
@@ -163,7 +163,7 @@
         "limit": 8,
         "perviewDesktop": 4,
         "spaceBetween": 30,
-        "nowrap": false,
+        "nowrap": true,
         "arrows": true,
         "scrollbar": false,
         "buttonall": "SHOP NOW",
@@ -223,21 +223,22 @@
           "settings": {
             "width": "6",
             "enable_height_banner": true,
-            "promo_banner_height": 360,
+            "promo_banner_height": 610,
             "promo_banner_height_mobile": 320,
+            "image": "shopify://shop_images/clothing-on-retail-rack.jpg",
             "enable_video": false,
             "video_hosted": "shopify://files/videos/4c182cb3904445cdb3e00c778f7dc147.mp4",
             "subtitle": "",
-            "title": "Say 'I love you'",
+            "title": "Say 'I am looking for it'",
             "size_text": "h3",
             "space_heading": "mb-2",
-            "description": "Click 'Welding Party for two' when booking.",
+            "description": "Find exactly what you need—quickly, easily, and all in one place. From daily essentials to unique must-haves, everything you're searching for is right here.",
             "bg_color": "#ffffff",
             "colordef": "#202025",
             "opacity_bg": 0,
             "style_btn": "btn-underline",
             "button_text": "Book now",
-            "button_link": "shopify://pages/appointment",
+            "button_link": "shopify://collections",
             "vertical": "mid",
             "horizontal": "left",
             "text_align": "left"
@@ -275,14 +276,14 @@
           "type": "collection",
           "settings": {
             "title": "Best Seller",
-            "collection": "trending-cute-lamps-🔥",
+            "collection": "gym",
             "button": "discover now",
             "link": "shopify://collections/best-seller",
-            "style_btn": "btn-outline",
-            "image": "shopify://shop_images/cmimgopt-8f631375-35a6-4a5e-a78d-3cb0528642ff.webp",
-            "colortabimage": "#202025",
+            "style_btn": "btn-theme btn-white",
+            "image": "shopify://shop_images/cmimgopt-187d2adb-5384-4c5b-b82a-1af2ad32aec7.webp",
+            "colortabimage": "#ffffff",
             "bg_overlay": "#000000",
-            "opacity_bgbox": 0,
+            "opacity_bgbox": 58,
             "position_text": "bot-center"
           }
         },
@@ -324,7 +325,7 @@
         "animation": "fade-up",
         "setwidth": "container",
         "bgsection": "#ffffff",
-        "title": "",
+        "title": "“Calm & Collected”",
         "limit": 4,
         "enable_reverse": true,
         "paddingsection": "80px 0px 80px 0px",
@@ -393,6 +394,7 @@
     },
     "backgroundvideo_CPddgd": {
       "type": "backgroundvideo",
+      "disabled": true,
       "settings": {
         "animation": "fade-up",
         "setwidth": "full",
@@ -422,13 +424,13 @@
             "bgtext": "#252525",
             "title_color": "#ffffff",
             "subtitle": "",
-            "title": "Quality & Care",
-            "size_text": "h2",
+            "title": "“Everything You Need. All in One Place.”",
+            "size_text": "h4",
             "text": "",
-            "answer_content": "<p>Most of the jewelry is 14k gold filled, sterling silver, or rose gold filled. The best jewelry is always well-cared for.</p>",
+            "answer_content": "<p>Discover a world of convenience with our carefully curated collection of everyday essentials and niche must-haves. From smart home upgrades to trending lifestyle accessories, we bring quality, affordability, and style together—so you can shop smarter, faster, and better.</p>",
             "style_btn": "btn-outline btn-outline-white",
             "button": "discover now",
-            "link": "",
+            "link": "shopify://collections",
             "enable_padding": true,
             "block_align": "center",
             "align": "left"
@@ -436,7 +438,9 @@
         },
         "image_block_Gk4ibM": {
           "type": "image_block",
-          "settings": {}
+          "settings": {
+            "image": "shopify://shop_images/mens-watch-and-ring.jpg"
+          }
         }
       },
       "block_order": [
