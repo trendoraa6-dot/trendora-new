@@ -44,8 +44,8 @@
           "type": "fakeviewer",
           "settings": {
             "fake_view_min": 12,
-            "fake_view_max": 30,
-            "fake_view_duration": 3,
+            "fake_view_max": 80,
+            "fake_view_duration": 5,
             "fake_view_text_prefix": "👀",
             "fake_view_text_suffix": "customers are viewing this product"
           }
