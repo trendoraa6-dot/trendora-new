@@ -50,15 +50,6 @@
             "width": "25%"
           }
         },
-        "text_PXgRTm": {
-          "type": "text",
-          "settings": {
-            "widthlogofooter": 130,
-            "title": "",
-            "text": "",
-            "width": "auto"
-          }
-        },
         "1562342622030": {
           "type": "menu",
           "settings": {
@@ -83,13 +74,6 @@
             "width": "auto"
           }
         },
-        "e9eb7f2c-c446-4ab6-9c0c-636e713bb621": {
-          "type": "menu",
-          "settings": {
-            "link_list": "",
-            "width": "auto"
-          }
-        },
         "1595696762386": {
           "type": "text",
           "settings": {
@@ -102,11 +86,9 @@
       },
       "block_order": [
         "ec49d85b-17bb-4b65-a49f-3086aa5430cd",
-        "text_PXgRTm",
         "1562342622030",
         "1567410176792",
         "text_HRnQdp",
-        "e9eb7f2c-c446-4ab6-9c0c-636e713bb621",
         "1595696762386"
       ],
       "custom_css": [
