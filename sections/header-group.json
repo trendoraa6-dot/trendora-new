@@ -364,7 +364,7 @@
         "item_jqWKhc"
       ],
       "settings": {
-        "enable": true,
+        "enable": false,
         "enable_homepage": true,
         "background": "#000000",
         "gradient_bg": "",
