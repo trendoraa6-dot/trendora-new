@@ -617,6 +617,7 @@
         "05fa68df-6d3c-4ed2-afd2-39d1c6945a8a",
         "71224ca7-db08-44d5-8f55-df529ccb46af"
       ],
+      "disabled": true,
       "custom_css": [],
       "settings": {
         "animation": "fade-up",
